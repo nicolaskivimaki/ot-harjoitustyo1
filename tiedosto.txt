@@ -1,6 +1,5 @@
 Kopioi tiedostoon tiedosto.txt jostain paljon tekstiä ja commitoi tiedosto
 Poista nyt osa tiedoston tekstistä ja lisää tiedostoon hieman lisää tekstiä
-commitoi muutosten jälkeenhello
-
+comos oikealta on valittuna tree, näkyy vasemmalla puolella (valinnasta riippumatta) tiedostojen commitin aikainen tilanne
 
 
