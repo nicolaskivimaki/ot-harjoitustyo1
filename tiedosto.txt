@@ -1,2 +1,6 @@
-hello
+Kopioi tiedostoon tiedosto.txt jostain paljon tekstiä ja commitoi tiedosto
+Poista nyt osa tiedoston tekstistä ja lisää tiedostoon hieman lisää tekstiä
+commitoi muutosten jälkeenhello
+
+
 
